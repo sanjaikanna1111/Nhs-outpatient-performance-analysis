@@ -1,7 +1,5 @@
 # Nhs-outpatient-performance-analysis
 I have analyzed 113 million NHS outpatient appointments to identify strategic opportunities for capacity expansion and efficiency improvement.
-# Analysis Methodology
-
 ## Approach
 This project uses **Business Analysis** with Python for data processing 
 and Power BI for visualization.
