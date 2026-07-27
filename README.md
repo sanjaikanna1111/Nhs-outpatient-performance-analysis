@@ -35,19 +35,20 @@ and Power BI for visualization.
 
 ## phase 6: visualisations and insights
 - Dashboard using powerbi
--   Executive summary
+  
+##   Executive summary
 
 <img width="591" height="332" alt="image" src="https://github.com/user-attachments/assets/05a52363-8072-4fb3-8e2c-3f0c5afbc35c" />
 
-- Demand analysis
+## Demand analysis
 
 <img width="590" height="330" alt="image" src="https://github.com/user-attachments/assets/f347c0d0-9b07-4d58-81e2-f5aa0e498aca" />
 
--Operational Efficiency
+## Operational Efficiency
 
 <img width="595" height="332" alt="image" src="https://github.com/user-attachments/assets/8949ac5d-ff85-49b1-9879-96a448dd11b0" />
 
--Tele-health opportunities
+## Tele-health opportunities
 
 <img width="592" height="336" alt="image" src="https://github.com/user-attachments/assets/ddda1ae0-b48f-4bd8-b813-72cbece24d56" />
 
