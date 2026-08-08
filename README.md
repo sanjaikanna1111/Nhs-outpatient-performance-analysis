@@ -34,7 +34,8 @@ and Power BI for visualization.
 
 <img width="591" height="332" alt="image" src="https://github.com/user-attachments/assets/05a52363-8072-4fb3-8e2c-3f0c5afbc35c" />
 
-```Insights:
+```
+Insights:
 
 Analysed 113 million outpatient appointments, of which 89 million have coded diagnoses.
 Top diagnosis by volume is Malignant neoplasms (214K attendances).
@@ -49,7 +50,8 @@ Shifting just 25% of malignant neoplasm follow-ups to remote care could free app
 
 <img width="590" height="330" alt="image" src="https://github.com/user-attachments/assets/f347c0d0-9b07-4d58-81e2-f5aa0e498aca" />
 
-```Insights:
+```
+Insights:
 
 The top 5 diagnosis groups account for roughly 50% of total outpatient demand.
 Malignant neoplasms lead with 214K visits — high clinical priority but currently low telehealth adoption (25%).
@@ -63,7 +65,8 @@ High-volume conditions such as pain in joint, degeneration of macula, and other 
 
 <img width="595" height="332" alt="image" src="https://github.com/user-attachments/assets/8949ac5d-ff85-49b1-9879-96a448dd11b0" />
 
-```Insights:
+```
+Insights:
 
 -Average follow-up ratio is 1.6 subsequent appointments per first appointment (range: 0.70 – 14.10 across diagnoses).
 -Highest follow-up burdens:
@@ -80,7 +83,8 @@ iii. Malignant neoplasm of breast: 7.40 follow-ups
 
 <img width="592" height="336" alt="image" src="https://github.com/user-attachments/assets/ddda1ae0-b48f-4bd8-b813-72cbece24d56" />
 
-```Insights:
+```
+Insights:
 
 -Overall telehealth adoption is currently 17.99% (2 million tele appointments out of 113 million total).
 -Several low-volume diagnoses already achieve 100% telehealth adoption (e.g. Actinomycetoma, Acute bronchitis, Acute hepatitis B, Agalactia).
@@ -92,6 +96,7 @@ iv. After-cataract & Degeneration of macula: near 0%
 v. Expanding telehealth for clinically suitable high-volume pathways could significantly increase remote capacity while protecting in-person slots for complex cases.
 vi. Current adoption is a solid starting point but falls well short of the estimated potential (35–40%) based on diagnosis suitability scoring.
 ```
+
 ## Tools
 - **Python:** pandas, numpy
 - **Visualization:** matplotlib, seaborn
