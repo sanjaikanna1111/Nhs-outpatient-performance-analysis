@@ -34,7 +34,7 @@ and Power BI for visualization.
 
 <img width="591" height="332" alt="image" src="https://github.com/user-attachments/assets/05a52363-8072-4fb3-8e2c-3f0c5afbc35c" />
 
-Insights:
+```Insights:
 
 Analysed 113 million outpatient appointments, of which 89 million have coded diagnoses.
 Top diagnosis by volume is Malignant neoplasms (214K attendances).
@@ -43,11 +43,13 @@ Estimated capacity opportunity: 370.19K appointment slots could be freed through
 Attendance type split shows 56.56% subsequent appointments, highlighting significant follow-up demand.
 Shifting just 25% of malignant neoplasm follow-ups to remote care could free approximately 53.5K in-person slots and potentially reduce wait times by 8–12 weeks.
 
+```
+
 ## Demand analysis
 
 <img width="590" height="330" alt="image" src="https://github.com/user-attachments/assets/f347c0d0-9b07-4d58-81e2-f5aa0e498aca" />
 
-Insights:
+```Insights:
 
 The top 5 diagnosis groups account for roughly 50% of total outpatient demand.
 Malignant neoplasms lead with 214K visits — high clinical priority but currently low telehealth adoption (25%).
@@ -55,39 +57,41 @@ Pregnant state, incidental (194K visits) has very low telehealth adoption (7%) a
 After-cataract (171K visits) shows limited remote suitability for initial assessment but potential for routine follow-ups.
 High-volume conditions such as pain in joint, degeneration of macula, and other senile cataract also drive substantial demand and should be prioritised for pathway redesign.
 
+```
+
 ## Operational Efficiency
 
 <img width="595" height="332" alt="image" src="https://github.com/user-attachments/assets/8949ac5d-ff85-49b1-9879-96a448dd11b0" />
 
-Insights:
+```Insights:
 
-Average follow-up ratio is 1.6 subsequent appointments per first appointment (range: 0.70 – 14.10 across diagnoses).
-Highest follow-up burdens:
-Degeneration of macula: 11.40 follow-ups per patient
-Malignant neoplasm of prostate: 11.10 follow-ups
-Malignant neoplasm of breast: 7.40 follow-ups
+-Average follow-up ratio is 1.6 subsequent appointments per first appointment (range: 0.70 – 14.10 across diagnoses).
+-Highest follow-up burdens:
+i.Degeneration of macula: 11.40 follow-ups per patient
+ii. Malignant neoplasm of prostate: 11.10 follow-ups
+iii. Malignant neoplasm of breast: 7.40 follow-ups
+-These elevated ratios indicate either appropriate chronic disease monitoring or opportunities to introduce clearer discharge criteria and virtual follow-up models.
+- Optimising high-ratio pathways is projected to free 370.19K outpatient slots.
+- Diagnoses with both high volume and high follow-up ratios represent the greatest efficiency opportunity.
 
-These elevated ratios indicate either appropriate chronic disease monitoring or opportunities to introduce clearer discharge criteria and virtual follow-up models.
-Optimising high-ratio pathways is projected to free 370.19K outpatient slots.
-Diagnoses with both high volume and high follow-up ratios represent the greatest efficiency opportunity.
+```
 
 ## Tele-health opportunities
 
 <img width="592" height="336" alt="image" src="https://github.com/user-attachments/assets/ddda1ae0-b48f-4bd8-b813-72cbece24d56" />
 
-Insights:
+```Insights:
 
-Overall telehealth adoption is currently 17.99% (2 million tele appointments out of 113 million total).
-Several low-volume diagnoses already achieve 100% telehealth adoption (e.g. Actinomycetoma, Acute bronchitis, Acute hepatitis B, Agalactia).
-High-volume conditions show much lower adoption:
-Malignant neoplasm of prostate: 25%
-Malignant neoplasm of breast: 21%
-Pain in joint: 13%
-After-cataract & Degeneration of macula: near 0%
-
-Expanding telehealth for clinically suitable high-volume pathways could significantly increase remote capacity while protecting in-person slots for complex cases.
-Current adoption is a solid starting point but falls well short of the estimated potential (35–40%) based on diagnosis suitability scoring.
-
+-Overall telehealth adoption is currently 17.99% (2 million tele appointments out of 113 million total).
+-Several low-volume diagnoses already achieve 100% telehealth adoption (e.g. Actinomycetoma, Acute bronchitis, Acute hepatitis B, Agalactia).
+-High-volume conditions show much lower adoption:
+i. Malignant neoplasm of prostate: 25%
+ii. Malignant neoplasm of breast: 21%
+iii. Pain in joint: 13%
+iv. After-cataract & Degeneration of macula: near 0%
+v. Expanding telehealth for clinically suitable high-volume pathways could significantly increase remote capacity while protecting in-person slots for complex cases.
+vi. Current adoption is a solid starting point but falls well short of the estimated potential (35–40%) based on diagnosis suitability scoring.
+```
 ## Tools
 - **Python:** pandas, numpy
 - **Visualization:** matplotlib, seaborn
