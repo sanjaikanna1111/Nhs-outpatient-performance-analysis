@@ -28,9 +28,11 @@ It focuses on three questions:
 
 ## Key Findings
 <img width="592" height="332" alt="image" src="https://github.com/user-attachments/assets/59e952ce-8a04-4c94-b14f-7893acf36cad" />
-- Top diagnosis by volume is Malignant neoplasms (~214k attendances).
+
+-  Top diagnosis by volume is Malignant neoplasms (~214k attendances).
 
 <img width="599" height="334" alt="image" src="https://github.com/user-attachments/assets/34c70a7c-6956-4b53-8c0d-c571f49e14a5" />
+
 - Current telehealth adoption across the data is about 18%.
 - Follow-up ratios vary widely (from under 1 to over 14 follow-ups per first appointment).
 - Highest follow-up burdens appear in conditions such as degeneration of macula, prostate cancer and breast cancer.
