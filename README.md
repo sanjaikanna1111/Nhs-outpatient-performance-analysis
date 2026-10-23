@@ -39,9 +39,11 @@ It focuses on three questions:
 - Improving coding completeness, reducing unnecessary follow-ups, and expanding telehealth on suitable pathways could free a meaningful number of appointment slots (estimates range from tens of thousands to low hundreds of thousands depending on assumptions).
 
 Demand analysis:
+
 <img width="599" height="338" alt="image" src="https://github.com/user-attachments/assets/e8bce30f-80f9-4c0d-8a0d-5747a2a42901" />
 
 operational efficiency:
+
 <img width="601" height="328" alt="image" src="https://github.com/user-attachments/assets/b923afe0-a58b-40c7-977c-a4811dcdf4e3" />
 
 ## Tools
