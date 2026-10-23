@@ -27,17 +27,25 @@ It focuses on three questions:
 | 6 | Visualisation | Built a Power BI dashboard |
 
 ## Key Findings
-
+<img width="592" height="332" alt="image" src="https://github.com/user-attachments/assets/59e952ce-8a04-4c94-b14f-7893acf36cad" />
 - Top diagnosis by volume is Malignant neoplasms (~214k attendances).
+
+<img width="599" height="334" alt="image" src="https://github.com/user-attachments/assets/34c70a7c-6956-4b53-8c0d-c571f49e14a5" />
 - Current telehealth adoption across the data is about 18%.
 - Follow-up ratios vary widely (from under 1 to over 14 follow-ups per first appointment).
 - Highest follow-up burdens appear in conditions such as degeneration of macula, prostate cancer and breast cancer.
 - Improving coding completeness, reducing unnecessary follow-ups, and expanding telehealth on suitable pathways could free a meaningful number of appointment slots (estimates range from tens of thousands to low hundreds of thousands depending on assumptions).
 
+Demand analysis:
+<img width="599" height="338" alt="image" src="https://github.com/user-attachments/assets/e8bce30f-80f9-4c0d-8a0d-5747a2a42901" />
+
+operational efficiency:
+<img width="601" height="328" alt="image" src="https://github.com/user-attachments/assets/b923afe0-a58b-40c7-977c-a4811dcdf4e3" />
+
 ## Tools
 
 - Python (pandas, numpy)
-- Matplotlib / Seaborn
+- Matplotlib and Seaborn
 - Power BI
 
 ## How to explore
